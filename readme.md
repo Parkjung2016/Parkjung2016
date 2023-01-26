@@ -5,18 +5,18 @@
 🎩 게임개발자가 되고싶은 박정호입니다.
 
 # <center>📚 STACKS</center>
-<center> <img src="https://img.shields.io/badge/C-black.svg?style=flat&logo=C&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSharp-gray.svg?style=flat&logo=c#">&nbsp;&nbsp;<img src="https://img.shields.io/badge/C++-239DFF.svg?style=flat&logo=c%2B%2B&logoColor=00599C"></center>
+<p><center><img src="https://img.shields.io/badge/C-black.svg?style=flat&logo=C&logoColor=white"><img src="https://img.shields.io/badge/CSharp-gray.svg?style=flat&logo=c#"><img src="https://img.shields.io/badge/C++-239DFF.svg?style=flat&logo=c%2B%2B&logoColor=00599C"></center></p>
 
 
 
 
-🍅<span style="color:red">**가장 많이 사용하는 프로그래밍 언어**</span>🍅
+🍅<span style="color:red">**가장 많이 사용하는 프로그래밍 언어**</span>🍅  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjung2016&layout=compact"><br><br>
 
 
 
 
-🥝<span style="color:green">**나의 Github 통계**</span>🥝
+🥝<span style="color:green">**나의 Github 통계**</span>🥝  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkjung2016&show_icons=true&theme=radical)
 
 
