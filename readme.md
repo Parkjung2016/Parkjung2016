@@ -4,7 +4,8 @@
 💌 contact: bagj21563@gmail.com  
 🎩 게임개발자가 되고싶은 박정호입니다.
 
-# <center>📚 STACKS</center>
+# 
+<h3><center>📚 STACKS</center></h3>
 <p><img src="https://img.shields.io/badge/C-black.svg?style=flat&logo=C&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSharp-gray.svg?style=flat&logo=c#">&nbsp;&nbsp;<img src="https://img.shields.io/badge/C++-239DFF.svg?style=flat&logo=c%2B%2B&logoColor=00599C"></p>
 
 
