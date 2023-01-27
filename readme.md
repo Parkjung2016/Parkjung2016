@@ -14,11 +14,11 @@
 🍅<span style="color:red">**가장 많이 사용하는 프로그래밍 언어**</span>🍅
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjung2016&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parkjung2016&layout=compact&theme=tokyonight)
 
 🥝<span style="color:green">**나의 Github 통계**</span>🥝 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkjung2016&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Parkjung2016&show_icons=true&theme=radical)
 #
 
 
