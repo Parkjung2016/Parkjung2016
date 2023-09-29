@@ -21,6 +21,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Parkjung2016&show_icons=true&theme=radical)
 #
 
+🥮<span style="color:green">**백준 티어**</span>🥮
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Parkjung2016)](https://solved.ac/Parkjung2016/)
 </div>
 
