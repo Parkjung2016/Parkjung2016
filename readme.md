@@ -3,27 +3,42 @@
 <div align="center">
 
 # 🎉**어서오세요!**
-💌 contact: bagj21563@gmail.com  
-🎩 게임개발자가 되고싶은 학생입니다.
+💌 박정호입니다.
 
-# 📚 가지고 있는 스킬들
-<p><img src="https://img.shields.io/badge/C-black.svg?style=flat&logo=C&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSharp-gray.svg?style=flat&logo=c#">&nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-239DFF.svg?style=flat&logo=c%2B%2B&logoColor=00599C"> <img src="https://img.shields.io/badge/Unity-gray.svg?style=flat&logo=Unity"> <img src="https://img.shields.io/badge/PhotoShop-gray.svg?style=flat&logo=adobephotoshop"></p>
+# 📚 사용한 언어
 
-#
+<p><img src="https://img.shields.io/badge/C-black.svg?style=flat&logo=C&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSharp-gray.svg?style=flat&logo=c#">&nbsp;&nbsp;<img src="https://img.shields.io/badge/C++-239DFF.svg?style=flat&logo=c%2B%2B&logoColor=00599C"></p>
 
-🍅<span style="color:red">**가장 많이 사용하는 프로그래밍 언어**</span>🍅
+
+# ✨ 경험
+<p>
+● 2024 넷마블 게임 아카데미 
+부트캠프(4기) 참가 - 심해로 갈꼬양
+  
+● 2024 스마트 틴 앱 챌린지 참가 - We are Boss_Department Store
+
+● 2024 STOVE INDIE 게임잼 - Dinosaur Vival
+</p>
+
+
+# 🍅<span style="color:red">**가장 많이 사용하는 프로그래밍 언어**</span>🍅
 
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parkjung2016&layout=compact&theme=tokyonight)
 
-🥝<span style="color:green">**나의 Github 통계**</span>🥝 
+# 💿️<span style="color:red">**자격증 취득 현황**</span>💿️
+
+● 정보처리 기능사 필기, 실기<br>
+● 한글엑셀(A)<br>
+● 아래한글(B)<br>
+● 한글파워포인트(B)<br>
+● 인터넷<br>
+● 코딩활용능력(엔트리)<br>
+● GTQ 포토샵 2급<br>
+
+# 🥝<span style="color:green">**나의 Github 통계**</span>🥝 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Parkjung2016&show_icons=true&theme=radical)
-#
-
-🥮<span style="color:green">**백준 티어**</span>🥮
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Parkjung2016)](https://solved.ac/Parkjung2016/)
 </div>
-
